@@ -1,3 +1,8 @@
+0.14.2-SNAPSHOT
+===============
+* Added support for the ShellEd.
+* Added initial support for the Xtext (need to improve it, styles are not supported yet).
+
 0.14.0
 ======
 * Fixed installation errors in Eclipse <4.
