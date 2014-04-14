@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eclipseColorThemeMapping plugin="org.eclipse.xtext.Xtext" created="2014-04-09 19:27:00">
+  <mappings>
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.DataTypeIndicator.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.DataTypeIndicator.color" themeKey="field" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.NeverCalledRule.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.NeverCalledRule.color" themeKey="foreground" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.RuleDeclaration.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.RuleDeclaration.color" themeKey="method" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.SpecialFeature.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.SpecialFeature.color" themeKey="staticField" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.TypeReference.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.TypeReference.color" themeKey="typeParameter" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.UnusedValue.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.UnusedValue.color" themeKey="foreground" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.comment.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.comment.color" themeKey="singleLineComment" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.error.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.error.color" themeKey="" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.keyword.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.keyword.color" themeKey="keyword" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.number.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.number.color" themeKey="number" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.punctuation.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.punctuation.color" themeKey="operator" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.string.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.string.color" themeKey="string" />
+
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.default.bgColor" themeKey="background" />
+    <mapping pluginKey="org.eclipse.xtext.Xtext.syntaxColorer.tokenStyles.default.color" themeKey="foreground" />
+  </mappings>
+</eclipseColorThemeMapping>

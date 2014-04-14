@@ -79,6 +79,7 @@ Eclipse Color Theme currently supports the following editors:
 * XML
 * XSL
 * Xtend
+* Xtext
 * Yaml (Yedit)
 
 

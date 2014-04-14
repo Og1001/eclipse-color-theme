@@ -295,6 +295,12 @@
    </mapper>
    <mapper
          class="com.github.eclipsecolortheme.mapper.GenericMapper"
+         name="Xtext"
+         pluginId="org.eclipse.xtext.Xtext"
+         xml="mappings/org.eclipse.xtext.Xtext.xml">
+   </mapper>
+   <mapper
+         class="com.github.eclipsecolortheme.mapper.GenericMapper"
          name="Haskell"
          pluginId="net.sf.eclipsefp.haskell.ui"
          xml="mappings/net.sf.eclipsefp.haskell.ui.xml">
