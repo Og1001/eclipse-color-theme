@@ -305,9 +305,18 @@
          pluginId="com.palantir.typescript"
          xml="mappings/com.palantir.typescript.xml">
    </mapper>
+   <mapper
+         class="com.github.eclipsecolortheme.mapper.GenericMapper"
+         name="ShellEd"
+         pluginId="net.sourceforge.shelled.ui"
+         xml="mappings/net.sourceforge.shelled.ui.xml">
+   </mapper>
    </extension>
    <extension
          point="com.github.eclipsecolortheme.theme">
+      <theme
+            file="themes/eyes-friendly.xml">
+      </theme>
       <theme
             file="themes/black-pastel.xml">
       </theme>

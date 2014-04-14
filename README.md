@@ -70,6 +70,7 @@ Eclipse Color Theme currently supports the following editors:
 * Ruby
 * Scala
 * Spket IDE (JavaScript and XML)
+* ShellEd
 * SQL
 * TCL
 * Text

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eclipseColorThemeMapping plugin="org.eclipse.dltk.tcl.ui" created="2014-04-05 13:50:00">
+    <mappings>
+        <mapping pluginKey="sourceHoverBackgroundColor" themeKey="background" />
+        <mapping pluginKey="DLTK_argument" themeKey="parameterVariable" />
+        <mapping pluginKey="DLTK_keyword" themeKey="keyword" />
+        <mapping pluginKey="DLTK_single_line_comment" themeKey="singleLineComment" />
+        <mapping pluginKey="DLTK_multi_line_comment" themeKey="multiLineComment" />
+        <mapping pluginKey="DLTK_base_class" themeKey="class" />
+        <mapping pluginKey="DLTK_comment_task_tag" themeKey="singleLineComment" />
+        <mapping pluginKey="DLTK_default" themeKey="singleLineComment" />
+        <mapping pluginKey="DLTK_function_definition" themeKey="method" />
+        <mapping pluginKey="DLTK_operator" themeKey="foreground" />
+        <mapping pluginKey="DLTK_string" themeKey="string" />
+        <mapping pluginKey="SHELLED_interpolated_string" themeKey="constant" />
+    </mappings>
+</eclipseColorThemeMapping>
